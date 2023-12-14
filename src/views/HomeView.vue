@@ -1,6 +1,10 @@
 <template>
   <div class="home">
-    Home
+    <div class="feature-card">
+      <router-link to="/movie/tt0409591">
+
+      </router-link>
+    </div>
   </div>
 </template>
 
