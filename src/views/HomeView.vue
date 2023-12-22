@@ -152,10 +152,12 @@ h3 {
   font-size: 20px;
   text-transform: uppercase;
   transition: 0.4s;
-}
+
   :active {
     background-color: #3B8070;
-  }
+  } 
+}
+  
 
   .movie-list {
     display: flex;
